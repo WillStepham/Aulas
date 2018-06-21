@@ -1,0 +1,13 @@
+
+# Criando Pasta algoritmos:
+mkdir algoritmos
+cd algoritmos/
+
+# Criando ambienteDeAlgoritmos
+python3 -m venv ambienteDeAlgoritmos
+
+# Ativando ambiente:
+source bin/activate
+
+# Instalando VPython:
+pip install vpython
